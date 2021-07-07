@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slater8242
 - 👀 I’m interested in Web Dev, games,cars and so on.
-- 🌱 I’m currently learning Javascript & WP
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , Instagram: Riad8242
 
